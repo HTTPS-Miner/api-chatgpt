@@ -1,0 +1,3 @@
+[submodule "bots/chatgpt"]
+	path = bots/chatgpt
+	url = https://github.com/HTTPS-Miner/chatgpt
